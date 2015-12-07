@@ -1,0 +1,28 @@
+name: Camera Corner Studios
+favicon: null
+layout_spectrum: 0.8279486338142306
+typography_spectrum: 0.03218316100537777
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2703566178679466
+  lightness: 0.21000175783410668
+  saturation: 0.24924579844810069
+  rhythmicContrast: 0.3673640643246472
+purpose: []
