@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-07T18:21:21.224Z'
-dateModified: '2015-12-07T18:21:11.114Z'
+datePublished: '2015-12-07T18:25:51.269Z'
+dateModified: '2015-12-07T18:25:46.988Z'
 title: Company Logo
 author: []
 sourcePath: _posts/2015-12-07-company-logo.md
@@ -22,4 +22,4 @@ url: company-logo/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/812a6403f57964165081c81d3854b25ae5362834.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d165a4e-8f76-4a83-a63a-6cf3186a195b.jpg)
