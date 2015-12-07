@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[audio - video - photo - broadcast]]></title>
         <description><![CDATA[audio - video - photo - broadcast]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/camera-corner-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Dec 2015 18:11:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Dec 2015 18:19:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/camera-corner-studios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Company Logo]]></title>
-            <description><![CDATA[<article><h1>Company Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/812a6403f57964165081c81d3854b25ae5362834.jpg"></article>]]></description>
-            <link>undefinedcompany-logo/index.html</link>
+            <description><![CDATA[<article><h1>Company Logo</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ac98e86f147ae2574c5db2566f60c592255dbdc.jpg"></article>]]></description>
+            <link>https://thegrid.ai/camera-corner-studios/company-logo/index.html</link>
             <guid isPermaLink="false">001f3e19-8440-41af-9691-a7132cf40163</guid>
             <pubDate>Mon, 07 Dec 2015 18:11:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Green Screen Production]]></title>
+            <description><![CDATA[<article><h1>Green Screen Production</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa59f105675c0cef164d6503525c3f1c3878c1c1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/camera-corner-studios/green-screen-production/index.html</link>
+            <guid isPermaLink="false">4d5ce64c-fd40-4cae-aeed-6140ec23a211</guid>
+            <pubDate>Mon, 07 Dec 2015 18:19:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
