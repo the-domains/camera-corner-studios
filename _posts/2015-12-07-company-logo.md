@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-07T19:37:48.472Z'
-dateModified: '2015-12-07T19:37:43.462Z'
+datePublished: '2015-12-15T20:29:26.406Z'
+dateModified: '2015-12-15T20:29:13.307Z'
 title: Company Logo
 author: []
 sourcePath: _posts/2015-12-07-company-logo.md
@@ -22,6 +22,6 @@ url: company-logo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d165a4e-8f76-4a83-a63a-6cf3186a195b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cfe24c47c4bd8ff0c8cefdbf19647fc40f55bcfc.jpg)
 
 Camera Corner Studios is Green Bay's only dedicated creative work space of its kind in the Green Bay area.  Our hourly rental production space is ideal for photography, videography, audio engineering, and online broadcast for small businesses, training & marketing departments, and independent creative artists working on a budget.
