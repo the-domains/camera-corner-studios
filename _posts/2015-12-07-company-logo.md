@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-22T16:34:31.038Z'
+datePublished: '2016-01-22T16:34:31.059Z'
 dateModified: '2016-01-22T16:34:00.169Z'
 title: Company Logo
 author: []
