@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-15T20:29:26.406Z'
-dateModified: '2015-12-15T20:29:13.307Z'
+datePublished: '2016-01-22T16:34:30.958Z'
+dateModified: '2016-01-22T16:34:00.169Z'
 title: Company Logo
 author: []
 sourcePath: _posts/2015-12-07-company-logo.md
